@@ -1,0 +1,89 @@
+.body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.nav-link {
+  color: #fff !important;
+  font-style: italic;
+  font-size: 1.2rem;
+}
+.logo {
+  color: #ff0059 !important;
+  font-style: italic;
+  font-size: 1.2rem;
+}
+header {
+  background-image: url("/assets/img/img1.jpg");
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+header h1 {
+  font-size: 4rem;
+  font-style: italic;
+  text-shadow: 2px 2px #ff0059;
+}
+header p {
+  font-size: 2rem;
+  font-style: italic;
+  text-shadow: 2px 2px #ff0059;
+}
+#propos img {
+  width: 100%;
+  height: 16rem;
+}
+#propos h2 {
+  color: #ff0059 !important;
+  font-style: italic;
+  text-shadow: 2px 2px #c7c1c3;
+}
+li {
+  list-style-type: circle;
+}
+#skill h1 {
+  color: #ff0059 !important;
+  font-size: 3rem;
+  text-shadow: 2px 2px #c7c1c3;
+  font-style: italic;
+}
+#experience {
+  background-color: rgb(213, 223, 223);
+}
+#experience h1 {
+  color: #ff0059 !important;
+  font-size: 2rem;
+  text-shadow: 2px 2px #c7c1c3;
+  font-style: italic;
+}
+#education p {
+  line-height: 2rem;
+}
+#education h1 {
+  color: #ff0059 !important;
+  font-size: 3rem;
+  text-shadow: 2px 2px #c7c1c3;
+  font-style: italic;
+}
+#education p:hover {
+  border: 3px solid #ff0059;
+}
+footer h1 {
+  color: #ff0059 !important;
+  font-size: 3rem;
+  text-shadow: 2px 2px #c7c1c3;
+  font-style: italic;
+}
+footer h2 {
+  color: #ff0059 !important;
+  font-size: 2rem;
+  text-shadow: 2px 2px #c7c1c3;
+  font-style: italic;
+}
+.scroll {
+  background-color: red;
+}
+.navbar {
+  position: fixed;
+  width: 100%;
+}
